@@ -12,6 +12,7 @@ The methodology is designed to be **replicable** across multiple Latin American 
 🔗 **Live project:** [Properati Blog](https://blog.properati.com.ec/altura-sobre-nivel-del-mar-y-viviendas-en-quito/)  
 🔗 **Repository Demo:** [Demo](nicolevasos.github.io/elevation_quito/)  
 
+![Overview of Quito Real Estate Analysis](imag/UIO_altura_snap.png)
 ---
 
 ## Objectives  
