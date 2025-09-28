@@ -66,14 +66,15 @@ The methodology is designed to be **replicable** across multiple Latin American 
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/yourusername/urbanity-altitude-quito.git
+git clone https://github.com/nicolevasos/urbanity-altitude-quito.git
 cd urbanity-altitude-quito
 pip install -r requirements.txt
 ```
-Run the notebooks or scripts to reproduce the workflow:
+Run the scripts to reproduce the workflow:
 
 ```bash
-jupyter notebook analysis.ipynb
+jupyter PY-QUITO_Altura.ipynb
+jupyter PY-QUITO_Poblacion.ipynb
 ```
 
 ## Future Directions
