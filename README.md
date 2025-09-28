@@ -1,9 +1,5 @@
 # 🗺️ Urbanity & Mountain Altitude — Quito Real Estate Analysis  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
-[![Python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org/)  
-[![GeoPandas](https://img.shields.io/badge/GeoPandas-0.14+-orange)](https://geopandas.org/)  
-
 ## Overview  
 This project explores the relationship between **altitude**, **population density**, and **real estate prices** in **Quito, Ecuador**. By integrating geographic and housing data, it produces interactive 3D maps that reveal how elevation may influence housing values and urban settlement patterns.  
 
@@ -67,8 +63,8 @@ The methodology is designed to be **replicable** across multiple Latin American 
 Clone the repository and install dependencies:  
 
 ```bash
-git clone https://github.com/nicolevasos/urbanity-altitude-quito.git
-cd urbanity-altitude-quito
+git clone https://github.com/nicolevasos/elevation_quito.git
+cd elevation_quito
 pip install -r requirements.txt
 ```
 Run the scripts to reproduce the workflow:
